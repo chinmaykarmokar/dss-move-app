@@ -7,7 +7,7 @@ const BenefitCalc = () => {
                <Heading fontSize="25px" color="#354882">Benefit Calculator</Heading>
                <br/><br/> 
                <Text>Find out what you can afford using a simple housing benefit calculator.</Text>
-               <Image src="http://www.dssmove.co.uk/default/public/media/images/graphic-housing.jpg"/>
+               <Image src="http://www.dssmove.co.uk/default/public/media/images/graphic-housing.jpg" alt="Description"/>
                <Button backgroundColor="#354882" color="#fff" mt="5px" width="100%">Calculate Benefit</Button>
             </Flex>
         </>

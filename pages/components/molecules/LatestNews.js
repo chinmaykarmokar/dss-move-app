@@ -1,4 +1,4 @@
-import { Flex, Button, Heading, Text, ListItem, UnorderedList } from "@chakra-ui/react";
+import { Flex, Heading, ListItem, UnorderedList } from "@chakra-ui/react";
 
 const News = () => {
     return (

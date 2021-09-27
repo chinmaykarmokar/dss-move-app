@@ -23,7 +23,7 @@ const Footer = () => {
                     <Flex flexWrap="wrap">
                         <Text fontSize="10px">Copyright 2021 dssmove.co.uk All rights reserved</Text>
                         <br/>
-                        <Image mt="10px" w="90%" src="http://www.dssmove.co.uk/default/public/media/css/images/logo-main.jpg"/>
+                        <Image mt="10px" w="90%" src="http://www.dssmove.co.uk/default/public/media/css/images/logo-main.jpg" alt="logo"/>
                     </Flex>
                 </SimpleGrid>
             </Flex>

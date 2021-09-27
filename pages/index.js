@@ -61,8 +61,6 @@ export default function Home() {
           <News />
         </Box>
         </Flex>
-
-        <SearchItemsPage/>
       {/* </Center> */}
         <Footer />
      

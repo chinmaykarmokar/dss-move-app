@@ -23,7 +23,7 @@ const Nav = () => {
             boxShadow="lg"
         >
             <Flex align="center" mr={5}>
-                <Image width="60%" src="http://www.dssmove.co.uk/default/public/media/css/images/logo-main.jpg"/>
+                <Image width="60%" src="http://www.dssmove.co.uk/default/public/media/css/images/logo-main.jpg" alt="Logo"/>
             </Flex>
 
             <Box display={{ base: "block", md: "none" }}>

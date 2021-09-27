@@ -5,6 +5,7 @@ const IntroImg = () => {
         <>
             <Box
                 bgImage="url('https://www.realestatemumbai.com/blog/wp-content/uploads/is-thane-the-best-real-estate-investment-destination.jpg')"
+                alt="Intro"    
                 bgPosition="center"
                 bgRepeat="no-repeat"
                 width="950px"
