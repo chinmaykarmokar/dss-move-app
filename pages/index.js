@@ -7,7 +7,7 @@ import PropertyToRent from './components/molecules/PropertiesToRent';
 import BenefitCalc from './components/molecules/BenefitCalculator';
 import IntroImg from './components/atoms/IntroImg';
 import Footer from './components/organisms/Footer';
-import News from './components/molecules/News';
+import LatestNews from './components/molecules/Latest';
 import SearchItemsPage from './components/pages/SearchPage';
 import { SimpleGrid, Center, Flex, Box, Button } from '@chakra-ui/react';
 import styles from '../styles/Home.module.css'
@@ -57,8 +57,7 @@ export default function Home() {
         <Box>
           <Socials/>
           <BenefitCalc/>
-          <br/>
-          <News/>
+          <LatestNews />
         </Box>
         </Flex>
       {/* </Center> */}
