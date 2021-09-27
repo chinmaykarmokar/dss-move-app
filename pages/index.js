@@ -5,7 +5,6 @@ import Cards from './components/molecules/Cards';
 import Socials from './components/atoms/SocialCard';
 import PropertyToRent from './components/molecules/PropertiesToRent';
 import BenefitCalc from './components/molecules/BenefitCalculator';
-import News from './components/molecules/LatestNews';
 import IntroImg from './components/atoms/IntroImg';
 import Footer from './components/organisms/Footer';
 import SearchItemsPage from './components/pages/SearchPage';
@@ -58,7 +57,6 @@ export default function Home() {
           <Socials/>
           <BenefitCalc/>
           <br/>
-          <News />
         </Box>
         </Flex>
       {/* </Center> */}
